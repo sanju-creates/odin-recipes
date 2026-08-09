@@ -2,3 +2,8 @@ This is the initial project in the foundations section of the odin project(invol
 
 FUTURE WORK
 This project may be revisited to stylize with css for visual improvements.
+
+SOURCES
+The recipes were taken from https://www.allrecipes.com/
+and the images from https://www.pexels.com/
+Chapati by eduardo ortiz
