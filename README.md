@@ -6,4 +6,4 @@ This project may be revisited to stylize with css for visual improvements.
 SOURCES
 The recipes were taken from https://www.allrecipes.com/
 and the images from https://www.pexels.com/
-Chapati by eduardo ortiz
+Chapati by eduardo ortiz, onigiri by Airam Dato-on
